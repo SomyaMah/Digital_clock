@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    border: 1rem solid white;
+    border-radius: 5rem;
+    display: flexbox;
+    font-size: 3rem;
+    background-color: black;
+    color: white;
+    /* align-items: center; */
+    padding: auto;
+    text-align: center;
+    box-shadow: 20px 20px 20px rgb(128, 128, 128);
+    width: 60vw;
+    margin: auto;
+    margin-top: 10vh;
+}
+body{
+    align-items: center;
+}
